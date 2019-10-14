@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="Chip8Emu/Livraison/Chip8Emu.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Chip8Emu/Makefile.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Chip8Emu/src&lt;com.chip8emu{Main.java[Main" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Chip8Emu/src&lt;com"/>
+        <file path="/Chip8Emu/.project"/>
+        <javaElement handleIdentifier="=Chip8Emu/src&lt;com.chip8emu.core"/>
+        <file path="/Chip8Emu/.classpath"/>
+        <javaElement handleIdentifier="=Chip8Emu/src&lt;com.chip8emu"/>
+        <javaElement handleIdentifier="=Chip8Emu/src&lt;com.chip8emu.gui"/>
+    </selectedElements>
+</jardesc>
